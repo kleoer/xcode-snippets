@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rcolor</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>[UIColor colorWithHue:(arc4random() % 256 / 256.0f) saturation:((arc4random() % 128 / 256.0f) + 0.5f) brightness:((arc4random() % 128 / 256.0) + 0.5) alpha:1];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2FA672A3-88D6-4E25-8CE6-ACF6526AF5AF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Get A Random Color</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Random Color</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
